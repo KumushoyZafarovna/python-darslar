@@ -1,2 +1,3 @@
 # python-darslar
-Assalom alaykum hurmatli Do'stlar, bu yerda <a href="https://python.sariq.dev">python.sariq.dev</a> sahifamizida qo'yib borilayotgan darslarga oid kodlar va dasturlarni yuklab olishingiz mumkin.
+Assalom alaykum hurmatli Do'stlar, 
+Fullstack Python oqituvchim Anvar Narzullayevning github boyicha bergan uyga vazifalari ushbu filelarni profilimizga qoshish edi va bu hozirgacha o'rgangan darslarimiz hisoblanadi.
